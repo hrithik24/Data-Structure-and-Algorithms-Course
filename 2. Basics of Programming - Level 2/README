@@ -1,0 +1,51 @@
+In this chapter we have covered following topics:-
+1) Pattern Continues:-
+  a) Full Pyramid Pattern
+  b) Inverted Full Pyramid Pattern
+  c) Diamond Pattern
+  d) Hollow Pyramid Pattern
+  e) Hollow Inverted Pyramid Pattern
+  f) Hollow Diamond Pattern
+  g) Hard Pattern/Flipped Diamond Pattern
+  h) Star+no Pattern
+  i) Hollow Inverted Pattern
+  j) No+space Pattern (Not Completed)
+  k) Alphabetical Pattern
+2) Bitwise Operators and Loops
+3) Variable Scoping
+4) Typecasting
+5) Switch Case in C++
+6) Functions
+  a) Advantages of Functions in C++
+  b) Function Declaration
+  c) Function Definition
+  d) Function Calling
+  e) Function Call Stack
+  f) Functions Questions
+
+Week 2:- Assignment
+1) Patterns
+  a) Numeric Hollow Half Pyramid Pattern
+  b) Numeric Hollow Inverted Half Pyramid Pattern
+  c) Numeric Palindrome Equilateral Pyramid Pattern
+  d) Solid Half Diamond Pattern
+  f) Fancy Pattern 1
+  g) Fancy Pattern 2 
+  h) Fancy Pattern 3
+  i) Floyd's Triangle Pattern
+  j) Pascal's Triangle Pattern
+  k) Butterfly Pattern (Not Completed)
+
+2) Functions
+  a) Display Area of Circle
+  b) Given Number is Even or Odd
+  c) Find the factorial
+  d) Check given Number Prime or not (Already done above)
+  e) Print all prime number from 1 to N (Already done above)
+  f) Reverse Integer (Leetcode Question no:- 7)
+  g) Set the Kth Bit (GFG Question)
+  h) Convert the temperature (Leetcode Question no:- 2649)
+  i) KM to Miles
+  j) Print all digits of an Integer
+  k) Create number using digits
+  l) Count all set bits
