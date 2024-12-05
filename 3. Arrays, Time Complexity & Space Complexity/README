@@ -1,0 +1,48 @@
+In this chapter we have covered following topics:-
+1) An Introduction to Time and Space Complexity
+  a) Time Complexity
+  b) Why to study Time and Space Complexity.
+  c) Space Complexity
+  d) Units to Represent Complexity.
+  e) Big O Complexities
+2) Arrays
+  a) What is Array.
+  b) Creation of Array.
+  c) Array Initialization.
+  d) Array Indexing.
+  e) Taking input an Array.
+  f) Program using all above points (arrap.cpp).
+  g) Ques 1) Create an Array of 10 size then take input in that array and double-up each value of that array.
+  h) Ques 2) Create an Array of 5 size and take input and print the sum of an array.
+3) Linear Search in an Array (linearSearch.cpp).
+4) Passing Array in Function (passingArrayToFunction.cpp).
+5) Ques 3) Count 0's and 1's in Array.
+6) Ques 4) Minimum Number in an Array.
+7) Ques 5) Reverse an Array.
+8) Ques 6) Extreme print an Array.
+9) Reference Variable.
+  a) Call by Value.
+  b) Call by Reference.
+10) Ques 7) Find Unique Elements in an Array.
+11) Ques 8) Print all pairs of Array.
+12) Ques 9) Print Triplets.
+13) Ques 10) Sort 0's and 1's.
+14) Ques 11) Shift array element by 1.
+15) Vectors STL in C++.
+   a) Features of Vectors.
+   b) Program for Vectors (vector.cpp).
+16) 2-D Arrays
+   a) Initialization of 2-D Arrays.
+   b) Accessing of 2-D Arrays.
+   c) How internally 2-D Arrays are stored.
+   d) Program for 2-D Array (2-D Array).
+   e) Calculate the row wise sum, column wise sum and diagonal wise sum of 2-D Array.
+17) Transpose of a Matrix.
+18) Vector in 2-D.
+19) Array Questions.
+   a) Print Negative number in left side and positive number in right side.
+   b) Sort Colors (Leetcode Question).
+   c) Rotate Array (Leetcode Question).
+   d)
+   e)
+   f)

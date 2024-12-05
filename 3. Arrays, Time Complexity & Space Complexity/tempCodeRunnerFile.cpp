@@ -1,1 +1,0 @@
-cin >> "Enter the element to find in array: " >> target;

@@ -18,6 +18,7 @@ void print1(vector<char> ch){
     cout << endl;
 }
 int main(){
+    // creating a vector
     vector<int> v;
 
     // insert
