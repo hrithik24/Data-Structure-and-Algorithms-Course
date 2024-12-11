@@ -1,5 +1,5 @@
 In this chapter we have covered following topics:-
-1) Pattern Continues:-
+## Class 1:- Pattern Continues
   a) Full Pyramid Pattern
   b) Inverted Full Pyramid Pattern
   c) Diamond Pattern
@@ -11,11 +11,21 @@ In this chapter we have covered following topics:-
   i) Hollow Inverted Pattern
   j) No+space Pattern (Not Completed)
   k) Alphabetical Pattern
-2) Bitwise Operators and Loops
-3) Variable Scoping
-4) Typecasting
-5) Switch Case in C++
-6) Functions
+
+## Class 2:- Bitwise Operators and Loops
+    a) Bitwise Operator (AND,OR,NOT,XOR)
+    b) Left and Right Shift Operator
+    c) Pre/Post Increment or decrement
+    d) Break and Continue
+    e) Variable Scoping
+       i) Local Variable
+       ii) Global Variable
+
+## Typecasting
+
+## Switch Case in C++
+
+## Class 3:- Functions
   a) Advantages of Functions in C++
   b) Function Declaration
   c) Function Definition
@@ -23,7 +33,7 @@ In this chapter we have covered following topics:-
   e) Function Call Stack
   f) Functions Questions
 
-Week 2:- Assignment
+## Week 2:- Assignment
 1) Patterns
   a) Numeric Hollow Half Pyramid Pattern
   b) Numeric Hollow Inverted Half Pyramid Pattern

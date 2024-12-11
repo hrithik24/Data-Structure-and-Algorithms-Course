@@ -1,0 +1,30 @@
+In this chapter we have covered following topics:-
+## Class 1:- Searching and Sorting - Level 1
+1) Searching
+  a) Linear Search
+  b) Binary Search
+  c) Ques 1) Find the first Occurence in the array using binary search.
+  d) QUes 2) Find the last Occurence in the array using binary search.
+  e) Ques 3) Find the total Occurence in the array using binary search.
+  f) Ques 4) Find the missing element in a Sorted array.
+  g) Ques 5) Peak Index in a Mountain Array (LeetCode Question).
+
+## Class 2:- Searching and Sorting - Level 2
+a) Ques 6) Find Pivot Element.
+b) Ques 7) Search in Rotated Array (LeetCode Question 33).
+c) Ques 8) Sqrt(x) (LeetCode Question 69).
+d) Ques 9) Search in a 2-D Matrix (LeetCode Question 74).
+
+## Class 3:- Searching and Sorting - Level 3
+a) Ques 10) Taking 2 number and divide them and give the output by using binary search.
+b) Ques 11) Binary Search on nearly sorted array.
+c) Ques 12) Find the Occurring element.
+
+## Bubble Sort Algorithm
+## Selection Sort Algorithm
+## Insertion Sort Algorithm
+## Custom Comparator
+
+## Week 4 - Assignment
+
+

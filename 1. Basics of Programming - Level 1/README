@@ -1,30 +1,40 @@
 In this chapter we have covered following topics:-
-1) How to Approach a Problem.
-2) Flowcharts and Pseudo Code with Examples.
-3) Programming Languages:-
-  a) Why do we need it?
-  b) Let's write down the 1 st code?
-4) Datatypes and Variables and Variables Naming Coventions.
-5) How data is stored (+ve and -ve integers).
-6) Operators and Input and Output in C++.
-7) Number System:- Decimal and Binary
+## Class 1:- Introduction to programming
+   a) How to Approach a Problem.
+   b) Flowcharts and Pseudo Code with Examples.
+
+## Class 2:- Write your first C++ program
+   a) Programming Languages:-
+      i) Why do we need it?
+      ii) Let's write down the 1 st code?
+   b) Datatypes and Variables and Variables Naming Coventions.
+   c) How data is stored (+ve and -ve integers).
+   d) Operators and Input and Output in C++.
+
+## Number System:- Decimal and Binary
    a) Decimal to binary using Division Method (Program).
    b) Decimal to binary using Bitwise Method (Program).
    c) Binary to decimal Conversion (Program).
-8) Compilation Process
-9) Conditionals and Loops
-10) Pattern Printing
-   a) Square Pattern 
-   b) Rectangle Pattern
-   c) Hollow Rectangle
-   d) Half Pyramid
-   e) Inverted Half Pyramid
-   f) Numeric Half Pyramid
-   g) Inverted Numeric Half Pyramid
 
-Week 1:- Assignment
-1) Flowchart examples 1 to 9.
-2) Hollow Square Pattern
-3) Hollow Inverted Half Pyramid
-4) Full Pyramid
-5) Hollow Full Pyramid
+## Compilation Process
+
+## Class 3:- Conditionals and Loops
+   a) if statement
+   b) if-else statement
+   c) if else if statement
+   d) for loop
+   e) Pattern Printing
+      i) Square Pattern 
+      ii) Rectangle Pattern
+      iii) Hollow Rectangle
+      iv) Half Pyramid
+      v) Inverted Half Pyramid
+      vi) Numeric Half Pyramid
+      vii) Inverted Numeric Half Pyramid
+
+## Week 1:- Assignment
+   a) Flowchart examples 1 to 9.
+   b) Hollow Square Pattern
+   c) Hollow Inverted Half Pyramid
+   d) Full Pyramid
+   e) Hollow Full Pyramid
