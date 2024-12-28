@@ -1,0 +1,35 @@
+In this chapter we have covered following topics:-
+## Class 1:- Char Arrays and Strings - Level 1
+1) Character Arrays
+    a) Creation of an char array
+    b) Input in char array
+    c) Accessing an char array
+    d) Ques 1) Length of a string
+    e) Ques 2) Reverse of a string
+    f) Ques 3) Convert to upper case
+    g) Ques 4) Replace @ with space
+    h) Ques 5) Check Palindrome
+2) Strings
+    a) Creation of string
+    b) Input in string
+    c) Printing in string
+    d) Accessing the steing
+    e) String in-build function
+    f) Difference between character array and strings
+
+## Class 2:- Char Arrays and Strings - Level 2
+1) LeetCode Questions
+    a) Ques 1) Remove all adjacent duplicates in string (LeetCode Question 1047)
+    b) Ques 2) Remove all occurrence of a string (LeetCode Question 1910)
+    c) Ques 3) Valid Palindrome II (LeetCode Question 680)
+    d) Ques 4) Palindromic Substring (LeetCode Question 647)
+
+## Class 3:- Char Arrays and Strings - Level 3
+1) LeetCode Questions
+    a) Ques 5) Decode the Message (LeetCode Question 2325)
+    b) Ques 6) Minimum Amount of time to collect garbage (LeetCode Question 2391)
+    c) Ques 7) Custom Sort String (LeetCode Question 791)
+    d) Ques 8) Find and replace pattern (LeetCode Question 890)
+
+## Week 5 - Assignment
+
