@@ -1,0 +1,33 @@
+In this chapter we have covered following topics:-
+## Class 1:- Recursion Class 1
+1) Recursion and examples of recusrion.
+    a) Factorial 
+    b) Printing Counting from n to 1
+    c) 2^n
+    d) Fibonacci Series
+    e) Sum of n numbers
+
+## Time and Space Complexity of Recursive solutions.
+
+## Class 2:- Recusrion Class 2
+1) Climbing Stairs (LeetCode Question 70)  --> Not Completed
+2) Print array values using recursion  --> Done
+3) Search in Array --> Done
+4) Minimum Number in Array --> Done
+5) Print Even numbers --> Done
+6) Double the array element -->Done
+7) Maximum in an array --> DOne
+8) Find the element in an Array and return index
+9) Print index of all occurrences of target in array
+10) Print integer digit in vector --> Done
+11) Print vector digits to vector
+
+## Class 3:- Recursion Class 3
+1) Array is sorted or not
+2) Binary search using recursion
+3) Subsequence of string (include and exclude method) ## Imp
+4) Maximize the cut segment (GFG Question)
+5) Coin change (LeetCode Question 322)
+6) House robber (LeetCode Question 198)
+
+## Week 7 - Assignment
