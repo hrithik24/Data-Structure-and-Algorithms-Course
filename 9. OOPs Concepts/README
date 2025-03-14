@@ -1,0 +1,36 @@
+In this chapter we have covered following topics:-
+## Local and Global Variables
+## Memory Layout of a Program
+## OOPS class 1
+    1) Class
+    2) Object
+    3) Access Modifiers
+    4) Constructor
+    5) this pointer
+
+## Const Keyword || Initialization List || MACROS
+## Static Keyword in Class
+## OOPS Class 2
+    1) Copy Constructor
+    2) Variable life cycle
+    3) Destructor
+    4) Getters and Setters in c++
+    5) Encapsulation
+    6) Inheritance and its types
+    7) Polymorphism
+        a) Compile Time Polymorphism
+            i) Function Overloading
+            ii) Operator Overloading
+
+## Shallow vs Deep Copy
+## Can Constructor be made private
+## Friend Function in C++
+## OOPS Class 3
+    1) Runtime Polymorphism
+        i) Function Overriding
+        ii) Virtual Function
+    2) String Class Implementation
+
+## Virtual Constructor vs Virtual Destructor
+## Abstraction in C++
+## Inline Function
