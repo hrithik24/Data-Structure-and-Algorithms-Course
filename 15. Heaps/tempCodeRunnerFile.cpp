@@ -1,0 +1,1 @@
+cout << "2rd Smallest number is: " << getKthSmallestElement(arr,n,k) << endl;

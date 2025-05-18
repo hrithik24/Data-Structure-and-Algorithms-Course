@@ -1,1 +1,1 @@
-deleteNode(head,tail,4 );
+deleteTailNode
